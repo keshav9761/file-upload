@@ -1,7 +1,6 @@
 #dependence
-/node_modules
-/pulic 
-package-lock.json
+node_modules/*
+package-lock.json/*
 
 
 
